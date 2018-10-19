@@ -2,6 +2,9 @@
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 
+\usepackage{biblatex}
+\addbibresource{final2.bib}
+
 \title{Proyecto Final}
 \author{José Soto García}
 \begin{document}
@@ -11,10 +14,26 @@ https://github.com/sotowe/proyecto$\_$final\\\\
 palabras clave: Proyecto, Final. 
 \end{abstract}
 \section{Introducción}
+\cite{bransden2000},\cite{kittel1963quantum}
 \section{Estado del arte}
 \section{Imágenes y tablas}
+\begin{table}[h]
+\begin{center}
+\begin{tabular}{|l|l|}
+\hline
+Algo & Algo \\
+\hline \hline
+Algo & Algo \\ \hline
+Algo & Algo \\ \hline
+Algo & Algo \\ \hline
+\end{tabular}
+\caption{Tabla simple.}
+\label{tabla:sencilla}
+\end{center}
+\end{table}
 \section{Fórmulas}
 $$A=\sum_{m,n,p}C(\rho_{mnp})e^{-i\triangle k\cdot(ma+nb+pc)}$$
-\section{Bibliografía}
+
+\printbibliography
 
 \end{document}
