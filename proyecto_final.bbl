@@ -73,6 +73,65 @@
       \field{volume}{3}
       \field{year}{1963}
     \endentry
+    \entry{krane1988}{book}{}
+      \name{author}{2}{}{%
+        {{hash=b60fb0b1718103f8cbc979650a868714}{%
+           family={Krane},
+           familyi={K\bibinitperiod},
+           given={Kenneth\bibnamedelima S},
+           giveni={K\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=9d9a6552821ea504ab1a5c767dddff92}{%
+           family={Halliday},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley New York}%
+      }
+      \strng{namehash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \strng{fullhash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \strng{bibnamehash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \strng{authorbibnamehash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \strng{authornamehash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \strng{authorfullhash}{4b07b08ee4d448ab20e2533ae285ad4c}
+      \field{sortinit}{K}
+      \field{sortinithash}{9fd838a31ba64d981e8f44562bd33f89}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introductory nuclear physics}
+      \field{volume}{465}
+      \field{year}{1988}
+    \endentry
+    \entry{tipler2007physics}{book}{}
+      \name{author}{2}{}{%
+        {{hash=4e06076900e6f9d5f91fd9fb273e8795}{%
+           family={Tipler},
+           familyi={T\bibinitperiod},
+           given={Paul\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=028521cb21b446864a6a4f23dbe0e505}{%
+           family={Mosca},
+           familyi={M\bibinitperiod},
+           given={Gene},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Macmillan}%
+      }
+      \strng{namehash}{5e6b203b414084102e65e61c21353ddc}
+      \strng{fullhash}{5e6b203b414084102e65e61c21353ddc}
+      \strng{bibnamehash}{5e6b203b414084102e65e61c21353ddc}
+      \strng{authorbibnamehash}{5e6b203b414084102e65e61c21353ddc}
+      \strng{authornamehash}{5e6b203b414084102e65e61c21353ddc}
+      \strng{authorfullhash}{5e6b203b414084102e65e61c21353ddc}
+      \field{sortinit}{T}
+      \field{sortinithash}{6f7aff9db9dcfeb7f95fd5bbd2f78df9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physics for scientists and engineers}
+      \field{year}{2007}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

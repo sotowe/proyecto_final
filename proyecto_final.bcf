@@ -1924,7 +1924,10 @@
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="1">bransden2000</bcf:citekey>
-    <bcf:citekey order="2">kittel1963quantum</bcf:citekey>
+    <bcf:citekey order="2">krane1988</bcf:citekey>
+    <bcf:citekey order="3">bransden2000</bcf:citekey>
+    <bcf:citekey order="4">tipler2007physics</bcf:citekey>
+    <bcf:citekey order="5">kittel1963quantum</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -1,6 +1,8 @@
 \documentclass[a4paper]{article}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{float}
 
 \usepackage{biblatex}
 \addbibresource{final2.bib}
@@ -14,9 +16,11 @@ https://github.com/sotowe/proyecto$\_$final\\\\
 palabras clave: Proyecto, Final. 
 \end{abstract}
 \section{Introducción}
-\cite{bransden2000},\cite{kittel1963quantum}
+algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo\cite{bransden2000},\cite{krane1988}, algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo \cite{bransden2000}, \cite{tipler2007physics}.
 \section{Estado del arte}
+algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo algo \cite{kittel1963quantum}.
 \section{Imágenes y tablas}
+Incluimos en esta sección algunas imágenes y tablas:
 \begin{table}[h]
 \begin{center}
 \begin{tabular}{|l|l|}
@@ -31,9 +35,16 @@ Algo & Algo \\ \hline
 \label{tabla:sencilla}
 \end{center}
 \end{table}
-\section{Fórmulas}
-$$A=\sum_{m,n,p}C(\rho_{mnp})e^{-i\triangle k\cdot(ma+nb+pc)}$$
 
+\begin{figure}[H]
+\includegraphics[width=0.9\textwidth]{10distanciamasa.png}
+\caption{Imagen}
+\end{figure}
+\section{Fórmulas}
+Escribiremos algunas fórmulas sencillas:
+$$A=\sum_{m,n,p}C(\rho_{mnp})e^{-i\triangle k\cdot(ma+nb+pc)}$$
+$$\oint{EdS}= \frac{1}{\epsilon_0}\int_V{\rho dV} $$
+\newpage
 \printbibliography
 
 \end{document}
